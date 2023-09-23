@@ -1,0 +1,1 @@
+t1.preorder(t1.loc);
