@@ -43,7 +43,6 @@ public:
         }
         return stack[top];
     }
-
     int size() {
         return top + 1;
     }
