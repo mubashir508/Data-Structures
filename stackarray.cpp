@@ -27,7 +27,6 @@ public:
         }
         stack[++top] = item;
     }
-
     int pop() {
         if (isEmpty()) {
             cout << "Stack is empty. Cannot pop element." << endl;
