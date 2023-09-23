@@ -47,7 +47,6 @@ public:
         }
         return maxVal;
     }
-
     void countingSort(int exp) {
         const int BASE = 10;
         int output[n] = {0};
