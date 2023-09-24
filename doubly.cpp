@@ -59,6 +59,7 @@ class doubly{
             temp->next=n1;
         }
     }
+
     void printList(){
         node*temp=first;
         if(isEmpty()){
